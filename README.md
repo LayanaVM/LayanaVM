@@ -15,7 +15,6 @@
 
 <br>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 ## 🚀 About Me
 
@@ -86,16 +85,15 @@ const currentProjects = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=layanavm&bg_color=1a1b27&color=f75c7e&line=f75c7e&point=ffffff&area=true&hide_border=true" alt="Activity Graph">
 </div>
 
-## 🏆 Experience Highlights
+##  Experience Highlights
 
 <table>
 <tr>
 <td width="50%">
 
-### 💼 Frontend Development Intern
+###  Frontend Development Intern
 **Petaera Technologies** | *May 2025 – June 2025*
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" align="right"/>
 
 - Built job application dashboard
 - React.js and Next.js implementation
@@ -105,10 +103,9 @@ const currentProjects = {
 </td>
 <td width="50%">
 
-### 🚀 Hackathon Contributor
-**Multiple Teams** | *2024 – Present*
+###  Hackathon Contributor
+             
 
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200" align="right"/>
 
 - Innovative solution development
 - Fast-paced collaboration
@@ -116,10 +113,22 @@ const currentProjects = {
 - Idea conceptualization
 
 </td>
+<td width="50%">
+
+###  Freelancer
+
+
+
+- Web designs
+- Easy layouts
+- Simple and sleek designs
+- Responsive UI
+
+</td>
 </tr>
 </table>
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=layanavm&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
@@ -130,7 +139,7 @@ const currentProjects = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=layanavm&theme=radical&hide_border=true&background=0d1117" alt="Streak Stats"/>
 </div>
 
-## 🎨 Design Philosophy
+##  Design Philosophy
 
 <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="400" align="right"/>
 
@@ -145,7 +154,7 @@ I believe great code starts with great design. My approach combines:
 
 <br clear="right"/>
 
-## 💼 Freelance Services
+##  Freelance Services
 
 <div align="center">
 
@@ -176,7 +185,7 @@ I believe great code starts with great design. My approach combines:
 </tr>
 </table>
 
-## 📫 Let's Connect!
+##  Let's Connect!
 
 <div align="center">
 
@@ -184,9 +193,9 @@ I believe great code starts with great design. My approach combines:
 
 <br><br>
 
-📧 **Email:** layanavm4691@gmail.com  
-💼 **LinkedIn:** [linkedin.com/in/LayanaVM](https://linkedin.com/in/LayanaVM)  
-📱 **Phone:** +91 8848153800
+ **Email:** layanavm4691@gmail.com  
+ **LinkedIn:** [linkedin.com/in/LayanaVM](https://linkedin.com/in/LayanaVM)  
+
 
 </div>
 
