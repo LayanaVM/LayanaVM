@@ -76,14 +76,6 @@ const currentProjects = {
 };
 ```
 
-<br clear="right"/>
-
-<div align="center">
-  
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=layanavm&bg_color=1a1b27&color=f75c7e&line=f75c7e&point=ffffff&area=true&hide_border=true" alt="Activity Graph">
-</div>
 
 ##  Experience Highlights
 
@@ -139,9 +131,6 @@ const currentProjects = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=layanavm&theme=radical&hide_border=true&background=0d1117" alt="Streak Stats"/>
 </div>
 
-##  Design Philosophy
-
-<img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="400" align="right"/>
 
 I believe great code starts with great design. My approach combines:
 
@@ -206,7 +195,5 @@ I believe great code starts with great design. My approach combines:
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Building%20the%20web,%20one%20component%20at%20a%20time&fontSize=16&fontColor=fff&animation=twinkling" width="100%"/>
   
   ![Profile Views](https://komarev.com/ghpvc/?username=layanavm&color=blueviolet&style=for-the-badge)
-  
-  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%" style="margin: 20px;">
-  
+ 
 </div>
