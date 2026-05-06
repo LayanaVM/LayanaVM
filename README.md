@@ -1,9 +1,5 @@
 Ahmm Hii , Hope you are doing great ! 
-<br>
-I currently enjoy  doing pixel , digital art and css animations.(Hopefully learn 3d if i upgrade my computer ;-;)
-<br>
-Always ready to learn and implement.
-<br>
+<Br>
 I use nextjs , electron js, learning to automate using n8n.
 <br>
 I do freelance websites and love to make soulful websites for my gang <3.
